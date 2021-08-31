@@ -1,7 +1,7 @@
-## Olá! Me chamo Luis Gustavo tenho 18 anos. 👋
+## Olá! Me chamo Luis Gustavo. 👋
 
 - 🔭 Estudando de Análise Desenvolvimento de Sistemas
-
+- 📖 Estudando JavaScript
 
 - <div>
   <a href="https://github.com/LuisGustavo187">
