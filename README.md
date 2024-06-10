@@ -1,7 +1,6 @@
 ## Olá! Me chamo Luis Gustavo. 👋
 
-- 🔭 Cursando Análise Desenvolvimento de Sistemas
-- 📖 Estudando JavaScript
+
 
 <div>
   <a href="https://github.com/LuisGustavo187">
